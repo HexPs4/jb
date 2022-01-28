@@ -3,14 +3,7 @@ CACHE MANIFEST
  
 index.html
 ps4.png
-load/index.html
-load/int64.js
-load/kexploit.js
-load/ps4.png
-load/main.js
-load/rop.js
-load/webkit.js
-load/patch.s
+main.js
 payloads/app2usb.bin
 payloads/backupdb.bin
 payloads/disableaslr.bin
