@@ -2,12 +2,15 @@ CACHE MANIFEST
 # v1.0 : 14-12-2021
  
 index.html
-int64.js
-kexploit.js
 ps4.png
-main.js
-rop.js
-webkit.js
+load/index.html
+load/int64.js
+load/kexploit.js
+load/ps4.png
+load/main.js
+load/rop.js
+load/webkit.js
+load/patch.s
 payloads/app2usb.bin
 payloads/backupdb.bin
 payloads/disableaslr.bin
