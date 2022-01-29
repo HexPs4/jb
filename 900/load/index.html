@@ -57,8 +57,8 @@
         function allset() {
             document.getElementById("loader").style.display = "none";
             document.getElementById("allset").style.display = "block";
+            document.getElementById("progress").innerHTML="تم تشغيل التهكير بنجاح قم بالخروج من المتصفح";
         }
-
         function awaitpl() {
             document.getElementById("loader").style.display = "none";
             document.getElementById("awaiting").style.display = "block";
@@ -73,7 +73,7 @@
 </html>
 
 <body onload="setTimeout(poc, 1500);">
-
+<h1 id="progress" class="titlehead">Hex PS4 v1.0</h1><hr><br>
     <div id="loader" class="loader"></div>
     <div id="awaiting" class="info" style="display:none;">
         Awaiting Payload...
