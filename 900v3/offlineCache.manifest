@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# v1.0 : 14-12-2021
+ 
+index.html
+ps4.png
+main.js
+load/index.html
+load/int64.js
+load/kexploit.js
+load/ps4.png
+load/rop.js
+load/webkit.js
+payloads/app2usb.bin
+payloads/backupdb.bin
+payloads/disableaslr.bin
+payloads/disableupdates.bin
+payloads/enablebrowser.bin
+payloads/enableupdates.bin
+payloads/exitidu.bin
+payloads/ftp.bin
+payloads/historyblocker.bin
+payloads/kerneldumper.bin
+payloads/mdumper.bin
+payloads/permanentuart.bin
+payloads/restoredb.bin
+payloads/rifrenamer.bin
+payloads/ToDex.bin
